@@ -1,0 +1,319 @@
+{
+	"BUILD_DIR" : "/home/re/Documentos/LeviLinux/build/src/ui/LeviLinuxUI_autogen",
+	"CMAKE_BINARY_DIR" : "/home/re/Documentos/LeviLinux/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/re/Documentos/LeviLinux/build/src/ui",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/re/Documentos/LeviLinux/src/ui",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/re/Documentos/LeviLinux/src/ui/CMakeLists.txt",
+		"/home/re/Documentos/LeviLinux/src/ui/resources/levilinux.desktop.in",
+		"/home/re/Documentos/LeviLinux/src/ui/resources/resources.qrc"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/re/Documentos/LeviLinux",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/home/re/Documentos/LeviLinux/build/src/ui/LeviLinuxUI_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "LeviLinuxUI_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/models/AccountModel.hpp",
+			"MU",
+			"IVK4DJNV27/moc_AccountModel.cpp",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/models/ModModel.hpp",
+			"MU",
+			"IVK4DJNV27/moc_ModModel.cpp",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/models/VersionModel.hpp",
+			"MU",
+			"IVK4DJNV27/moc_VersionModel.cpp",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/services/AuthService.hpp",
+			"MU",
+			"3BYFHCGL5U/moc_AuthService.cpp",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/services/BridgeAPI.hpp",
+			"MU",
+			"3BYFHCGL5U/moc_BridgeAPI.cpp",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/services/LaunchService.hpp",
+			"MU",
+			"3BYFHCGL5U/moc_LaunchService.cpp",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/services/ModService.hpp",
+			"MU",
+			"3BYFHCGL5U/moc_ModService.cpp",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/services/VersionService.hpp",
+			"MU",
+			"3BYFHCGL5U/moc_VersionService.cpp",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/widgets/ModListWidget.hpp",
+			"MU",
+			"IMAN36LHMA/moc_ModListWidget.cpp",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/widgets/ProgressDialog.hpp",
+			"MU",
+			"IMAN36LHMA/moc_ProgressDialog.cpp",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/widgets/ToastNotification.hpp",
+			"MU",
+			"IMAN36LHMA/moc_ToastNotification.cpp",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/widgets/VersionCard.hpp",
+			"MU",
+			"IMAN36LHMA/moc_VersionCard.cpp",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/windows/AccountManagerDialog.hpp",
+			"MU",
+			"Z5D6VF4H2M/moc_AccountManagerDialog.cpp",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/windows/LogConsole.hpp",
+			"MU",
+			"Z5D6VF4H2M/moc_LogConsole.cpp",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/windows/MainWindow.hpp",
+			"MU",
+			"Z5D6VF4H2M/moc_MainWindow.cpp",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/windows/ModManagerDialog.hpp",
+			"MU",
+			"Z5D6VF4H2M/moc_ModManagerDialog.cpp",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/windows/SettingsDialog.hpp",
+			"MU",
+			"Z5D6VF4H2M/moc_SettingsDialog.cpp",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/windows/VersionSelector.hpp",
+			"MU",
+			"Z5D6VF4H2M/moc_VersionSelector.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/re/Documentos/LeviLinux/build/src/ui/LeviLinuxUI_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/re/Documentos/LeviLinux/build/src/ui/LeviLinuxUI_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"HAVE_QT6=1",
+		"LEVILINUX_BRIDGE_EXPORTS",
+		"LEVILINUX_CORE_EXPORTS",
+		"LEVILINUX_LINUX=1",
+		"LEVILINUX_UI_VERSION=\"1.0.0\"",
+		"LEVILINUX_X86_64=1",
+		"QT_CONCURRENT_LIB",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_NO_DEBUG_OUTPUT",
+		"QT_OPENGLWIDGETS_LIB",
+		"QT_OPENGL_LIB",
+		"QT_SVG_LIB",
+		"QT_WIDGETS_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/re/Documentos/LeviLinux/src",
+		"/home/re/Documentos/LeviLinux/build/src",
+		"/usr/include/pipewire-0.3",
+		"/usr/include/spa-0.2",
+		"/usr/include/libdwarf-2",
+		"/usr/include/capstone",
+		"/home/re/Documentos/LeviLinux/src/ui",
+		"/home/re/Documentos/LeviLinux/build/src/ui",
+		"/home/re/Documentos/LeviLinux/src/core",
+		"/home/re/Documentos/LeviLinux/src/bridge",
+		"/home/re/Documentos/LeviLinux/src/core",
+		"/home/re/Documentos/LeviLinux/src/bridge",
+		"/usr/include/qt6/QtCore",
+		"/usr/include/qt6",
+		"/usr/lib64/qt6/mkspecs/linux-g++",
+		"/usr/include/qt6/QtWidgets",
+		"/usr/include/qt6/QtGui",
+		"/usr/include/qt6/QtNetwork",
+		"/usr/include/qt6/QtConcurrent",
+		"/usr/include/qt6/QtSvg",
+		"/usr/include/qt6/QtOpenGLWidgets",
+		"/usr/include/qt6/QtOpenGL",
+		"/usr/include",
+		"/usr/include/c++/16",
+		"/usr/include/c++/16/x86_64-redhat-linux",
+		"/usr/include/c++/16/backward",
+		"/usr/lib/gcc/x86_64-redhat-linux/16/include",
+		"/usr/local/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-std=c++20",
+		"-w",
+		"-dM",
+		"-E",
+		"/usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/re/Documentos/LeviLinux/build/src/ui/LeviLinuxUI_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 6,
+	"PARSE_CACHE_FILE" : "/home/re/Documentos/LeviLinux/build/src/ui/CMakeFiles/LeviLinuxUI_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib64/qt6/libexec/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/lib64/qt6/libexec/uic",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 11,
+	"SETTINGS_FILE" : "/home/re/Documentos/LeviLinux/build/src/ui/CMakeFiles/LeviLinuxUI_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/home/re/Documentos/LeviLinux/src/ui/main.cpp", "MU", null ],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/models/AccountModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/models/ModModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/models/VersionModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/services/AuthService.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/services/BridgeAPI.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/services/LaunchService.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/services/ModService.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/services/VersionService.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/widgets/ModListWidget.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/widgets/ProgressDialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/widgets/ToastNotification.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/widgets/VersionCard.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/windows/AccountManagerDialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/windows/LogConsole.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/windows/MainWindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/windows/ModManagerDialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/windows/SettingsDialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/re/Documentos/LeviLinux/src/ui/windows/VersionSelector.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

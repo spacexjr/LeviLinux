@@ -1,2 +1,0 @@
-/usr/bin/ar qc libloader.a CMakeFiles/loader.dir/library_loader.cpp.o CMakeFiles/loader.dir/mod_loader.cpp.o
-/usr/bin/ranlib libloader.a

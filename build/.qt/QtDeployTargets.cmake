@@ -1,0 +1,8 @@
+set(__QT_DEPLOY_TARGET_LeviLinuxCore_FILE /home/re/Documentos/LeviLinux/build/src/core/libLeviLinuxCore.a)
+set(__QT_DEPLOY_TARGET_LeviLinuxCore_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_preloader_FILE /home/re/Documentos/LeviLinux/build/src/core/preloader.so)
+set(__QT_DEPLOY_TARGET_preloader_TYPE SHARED_LIBRARY)
+set(__QT_DEPLOY_TARGET_LeviLinuxBridge_FILE /home/re/Documentos/LeviLinux/build/src/bridge/liblevilinux_bridge.so.1.0.0)
+set(__QT_DEPLOY_TARGET_LeviLinuxBridge_TYPE SHARED_LIBRARY)
+set(__QT_DEPLOY_TARGET_LeviLinuxUI_FILE /home/re/Documentos/LeviLinux/build/src/ui/LeviLinuxUI)
+set(__QT_DEPLOY_TARGET_LeviLinuxUI_TYPE EXECUTABLE)

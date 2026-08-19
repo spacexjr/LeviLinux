@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=LeviLinux
+GenericName=Minecraft Bedrock Launcher
+Comment=Native Minecraft Bedrock Launcher for Linux
+Exec=@CMAKE_INSTALL_PREFIX@/bin/LeviLinuxUI %f
+Icon=levi-linux
+Terminal=false
+Categories=Game;Utility;
+MimeType=application/x-minecraft-java-archive;application/x-minecraft-bedrock;application/x-minecraft-pack;
+Keywords=minecraft;bedrock;launcher;game;
+StartupNotify=true
+StartupWMClass=levilinux

@@ -1,8 +1,0 @@
-set(__QT_DEPLOY_TARGET_core_FILE /home/re/Documentos/LeviLinux/LeviLinux/build/src/core/libcore.a)
-set(__QT_DEPLOY_TARGET_core_TYPE STATIC_LIBRARY)
-set(__QT_DEPLOY_TARGET_loader_FILE /home/re/Documentos/LeviLinux/LeviLinux/build/src/loader/libloader.a)
-set(__QT_DEPLOY_TARGET_loader_TYPE STATIC_LIBRARY)
-set(__QT_DEPLOY_TARGET_levilinux_FILE /home/re/Documentos/LeviLinux/LeviLinux/build/src/ui/levilinux)
-set(__QT_DEPLOY_TARGET_levilinux_TYPE EXECUTABLE)
-set(__QT_DEPLOY_TARGET_test_core_engine_FILE /home/re/Documentos/LeviLinux/LeviLinux/build/test_core_engine)
-set(__QT_DEPLOY_TARGET_test_core_engine_TYPE EXECUTABLE)

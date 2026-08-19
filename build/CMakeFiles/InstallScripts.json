@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/re/Documentos/LeviLinux/build/cmake_install.cmake",
+		"/home/re/Documentos/LeviLinux/build/src/core/cmake_install.cmake",
+		"/home/re/Documentos/LeviLinux/build/src/bridge/cmake_install.cmake",
+		"/home/re/Documentos/LeviLinux/build/src/ui/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

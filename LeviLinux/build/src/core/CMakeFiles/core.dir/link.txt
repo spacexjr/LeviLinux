@@ -1,2 +1,0 @@
-/usr/bin/ar qc libcore.a CMakeFiles/core.dir/core_engine.cpp.o CMakeFiles/core.dir/platform_abstraction.cpp.o
-/usr/bin/ranlib libcore.a

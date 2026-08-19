@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+  <mime-type type="application/x-minecraft-mcpack">
+    <comment>Minecraft Pack</comment>
+    <glob pattern="*.mcpack"/>
+  </mime-type>
+  <mime-type type="application/x-minecraft-mcaddon">
+    <comment>Minecraft Addon</comment>
+    <glob pattern="*.mcaddon"/>
+  </mime-type>
+  <mime-type type="application/x-minecraft-tmc">
+    <comment>Minecraft TMC Package</comment>
+    <glob pattern="*.tmc"/>
+  </mime-type>
+</mime-info>

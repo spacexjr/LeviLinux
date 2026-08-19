@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "/home/re/Documentos/LeviLinux/build/src/ui/LeviLinuxUI_autogen",
+	"CMAKE_BINARY_DIR" : "/home/re/Documentos/LeviLinux/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/re/Documentos/LeviLinux/build/src/ui",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/re/Documentos/LeviLinux/src/ui",
+	"CMAKE_SOURCE_DIR" : "/home/re/Documentos/LeviLinux",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/re/Documentos/LeviLinux/build/src/ui/LeviLinuxUI_autogen/include",
+	"INPUTS" : [ "/home/re/Documentos/LeviLinux/src/ui/resources/icons/levilinux.svg" ],
+	"LOCK_FILE" : "/home/re/Documentos/LeviLinux/build/src/ui/CMakeFiles/LeviLinuxUI_autogen.dir/AutoRcc_resources_3YJK5W5UP7_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "3YJK5W5UP7",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib64/qt6/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/re/Documentos/LeviLinux/build/src/ui/CMakeFiles/LeviLinuxUI_autogen.dir/AutoRcc_resources_3YJK5W5UP7_Used.txt",
+	"SOURCE" : "/home/re/Documentos/LeviLinux/src/ui/resources/resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
